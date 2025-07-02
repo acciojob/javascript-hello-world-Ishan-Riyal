@@ -1,6 +1,6 @@
 //your JS code here. If required.
 function greet(){
-	alert("Hello World")
+	alert("Hello World!")
 }
 
 greet()
